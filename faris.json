@@ -3,10 +3,10 @@
     "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "google_ad_manager",
-    "ad_inter" : "google_ad_manager",
-    "ad_native" : "google_ad_manager",
-    "openapp" : "google_ad_manager",
+    "ad_banner" : "applovin_max",
+    "ad_inter" : "applovin_max",
+    "ad_native" : "applovin_max",
+    "openapp" : "applovin_max",
     "back_up" : "none",
     "ad_interval" : 3 ,
     
